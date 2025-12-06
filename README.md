@@ -1,6 +1,6 @@
 # 🐛 Entomology
 
-**_A Minecraft 1.21.10 NeoForge Mod_**
+**_A Minecraft 1.21.10 Fabric Mod_**
 
 ---
 
@@ -48,3 +48,4 @@ This mod aims to:
 ---
 
 > _“An entomologist is a person who studies insects professionally and might catch them for observation or specimen preservation.”_
+
